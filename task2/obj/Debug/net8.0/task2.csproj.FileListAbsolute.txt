@@ -1,0 +1,14 @@
+D:\Geekbrains\ДЗ\Array_string\task2\bin\Debug\net8.0\task2.exe
+D:\Geekbrains\ДЗ\Array_string\task2\bin\Debug\net8.0\task2.deps.json
+D:\Geekbrains\ДЗ\Array_string\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+D:\Geekbrains\ДЗ\Array_string\task2\bin\Debug\net8.0\task2.dll
+D:\Geekbrains\ДЗ\Array_string\task2\bin\Debug\net8.0\task2.pdb
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\task2.dll
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\refint\task2.dll
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\task2.pdb
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+D:\Geekbrains\ДЗ\Array_string\task2\obj\Debug\net8.0\ref\task2.dll
